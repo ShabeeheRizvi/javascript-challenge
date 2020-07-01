@@ -1,6 +1,6 @@
 // from data.js
 var tableData = data;
-console.log("../data.js");
+console.log("tableData");
 
 // Get a reference to the table body
 var tbody = d3.select("tbody");
